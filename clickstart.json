@@ -6,6 +6,10 @@
     "doc-url" : "https://github.com/CloudBees-community/lift_template/blob/master/README.md",
     "icon" : "https://d3ko533tu1ozfq.cloudfront.net/clickstart/lift_icon.png",
     "app-package": "https://s3.amazonaws.com/cloudbees-downloads/clickstart/lift_template.war", 
+
+    "supported-by" : "cloudbees",
+    "order" : 1, 
+
     "runtime": {
         "type": "tomcat"
     },
